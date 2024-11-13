@@ -34,7 +34,7 @@ This application is designed to help users find nearby ambulance services and do
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/jigneshvyas01/nearby-ambulance-doctor-app.git
 cd nearby-ambulances-and-doctors
 ```
 
