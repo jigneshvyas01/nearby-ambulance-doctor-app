@@ -31,7 +31,7 @@ const ManageDoctors: React.FC = () => {
     formData.append("file", file);
     formData.append(
       "upload_preset",
-      import.meta.env.VITE_COUDINARY_UPLOAD_PRESET
+      import.meta.env.VITE_CLOUDINARY_UPLOAD_PRESET
     );
 
     const response = await fetch(
